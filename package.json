@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/koni777/typescript-for-javascript-developers/issues"
   },
-  "homepage": "https://github.com/koni777/typescript-for-javascript-developers#readme"
+  "homepage": "https://github.com/koni777/typescript-for-javascript-developers#readme",
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
 }
